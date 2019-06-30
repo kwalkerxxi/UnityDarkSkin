@@ -4,6 +4,10 @@ using System.Linq;
 
 namespace UnityDarkSkin
 {
+    /// <summary>
+    /// This program changes the HEX in the EXE to allow for the Dark UI
+    /// TO DO: Change to Drag/Drop of exe into WPF version
+    /// </summary>
     class Program
     {
         static SkinType Skin;
